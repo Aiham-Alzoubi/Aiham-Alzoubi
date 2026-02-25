@@ -1,11 +1,5 @@
-<div align="center">
-
-# ✨ Aiham Alzoubi
-### 🚀 Frontend Developer | React Learner | Future Full-Stack Development
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;React+Specialist+In+Progress;Backend+Developer;Full-Stack+Development" />
-
-</div>
+<h1 align="center">✨ Aiham Alzoubi</h1> 
+<h3 align="center">🚀 Frontend Developer | React Learner | Future Full-Stack Engineer</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Frontend+Developer;React+Specialist+In+Progress;Future+Freelancer+💻" /> </p>
 
 ---
 
