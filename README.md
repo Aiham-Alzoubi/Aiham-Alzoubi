@@ -76,5 +76,3 @@
 <img src="https://komarev.com/ghpvc/?username=Aiham-Alzoubi&color=blueviolet&style=for-the-badge" />
 
 </div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiham-Alzoubi&show_icons=true)
